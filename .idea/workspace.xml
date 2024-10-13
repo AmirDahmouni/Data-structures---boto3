@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc647df3-8b78-4dca-ae99-42fb2b493526" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/AWS-Boto3/Cleanup-snapshots.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AWS-Boto3/Volumes-EC2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AWS-Boto3/restore-volumes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728736369511</updated>
-      <workItem from="1728736371759" duration="11826000" />
+      <workItem from="1728736371759" duration="12300000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
